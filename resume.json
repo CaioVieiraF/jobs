@@ -1,0 +1,21 @@
+{
+	"full_name": "Caio Vieira Fernandes de Paulo",
+	"email": "caiovieiraproficional@protonmail.com",
+	"mobile_phone": "+55 (11) 98602-8124",
+	"age": 18,
+	"home_address": "Avenida 9 de julho 1289, Bela Vista",
+	"start_date": 1594148400,
+	"opportunity_tag": "python_developer_internship",
+	"past_jobs_experience": "None",
+	"degrees": [{
+		"institution_name": "Paulista University",
+		"degree_name": "Computer science",
+		"begin_date": 1551916800,
+		"end_date": 1669680000
+	}],
+	"programming_skills": ["python", "java", "javascript", "shell_script"],
+	"database_skills": ["mysql", "sqlite", "SQLAlchemy"],
+	"hobbies": ["Test linux distros", "Cooking", "Close up magic"],
+	"why": "After 3 years of python gravitational experiences and linux intergalactic adventures, I've built a strong experience and extencive knowledge to join the SciCrop ship, into a new journey.",
+	"git_url_repositories": "https://github.com/CaioVieiraF"
+}
